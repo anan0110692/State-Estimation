@@ -16,5 +16,5 @@ MATLAB
 ### Particle FILTER:
 - Clone this repo and make it your MATLAB current folder.
 - Run the "nin.m" script file which will generate two signals: xT,y
-- Call "kalman1" in this way: parttt1(xT,y)
+- Call "parttt1" in this way: parttt1(xT,y)
 ![alt text](https://github.com/anan0110692/State-Estimation/blob/master/PART.jpg)
